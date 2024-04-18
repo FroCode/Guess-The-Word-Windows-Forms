@@ -1,0 +1,8 @@
+Made By MAAMAR HADDOUCHE 
+
+Please to find the solution follow the link below in the folder : 
+
+Guess-The-Word-Windows-Forms-MOO-ICT-master >
+Guess-The-Word-Windows-Forms-MOO-ICT-master>
+Guess The Word TASK\bin\Debug\net6.0-windows>
+Guess The Word TASK.exe
